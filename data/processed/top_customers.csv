@@ -1,0 +1,4 @@
+customer_id,name,region,total_spend,churned
+1.0,Ali Khan,North,1200.0,True
+2.0,Sara Ahmed,South,700.0,False
+5.0,Rahul Sharma,Unknown,0.0,False

@@ -1,0 +1,6 @@
+customer_id,name,email,region,signup_date,is_valid_email
+2,Sara Ahmed,sara@gmail.com,South,2023-02-15,True
+3,John Doe,johndoe.gmail.com,West,2023-03-20,False
+4,Aisha Malik,,East,2023-04-25,False
+1,Ali Khan,ali.khan@gmail.com,North,2023-05-01,True
+5,Rahul Sharma,rahul@gmail.com,Unknown,2023-06-12,True
